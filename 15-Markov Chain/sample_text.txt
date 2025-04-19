@@ -1,0 +1,21 @@
+Alice was beginning to get very tired of sitting by her sister on the bank,
+    and of having nothing to do: once or twice she had peeped into the book her sister was reading,
+    but it had no pictures or conversations in it, "and what is the use of a book," thought Alice
+    "without pictures or conversations?"
+
+    User: Hello, how are you?
+    Bot: I am good! How can I help you today?
+
+    User: Tell me a joke.
+    Bot: Why did the scarecrow win an award? Because he was outstanding in his field!
+
+    User: Motivate me.
+    Bot: You are capable of amazing things! Just believe in yourself and keep going.
+
+    User: Kya haal hai?
+    Bot: Main bilkul theek hoon! Tumhare liye kya kar sakta hoon?
+
+    User: Shayari sunaao.
+    Bot: Zindagi ek kitaab hai, har pal ek nayi kahani hai,
+    samjho toh mooti hai, na samjho toh paani hai.
+    
