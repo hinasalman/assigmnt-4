@@ -1,0 +1,42 @@
+type,text,category
+heading,25 Python Projects for Beginners – Start Coding with Python,General
+heading,Python Projects You Can Build,General
+heading,Mad Libs Game,Game
+heading,Guess the Number (Computer vs. User),Game
+heading,Rock, Paper, Scissors Game,Game
+heading,Hangman Word Game,Game
+heading,Countdown Timer App,Utility
+heading,Secure Password Generator,Utility
+heading,QR Code Generator & Decoder,Utility
+heading,Tic-Tac-Toe Game,Game
+heading,AI-Powered Tic-Tac-Toe,AI
+heading,Binary Search Visualization,Algorithm
+heading,Minesweeper Game Clone,Game
+heading,Sudoku Puzzle Solver,Algorithm
+heading,Photo Editor (Filters & Effects),Utility
+heading,Markov Chain Text Generator,AI
+heading,Classic Pong Game,Game
+heading,Snake Game (Retro Style),Game
+heading,Connect Four Game,Game
+heading,Tetris Game Clone,Game
+heading,Multiplayer Online Game,Game
+heading,Automated Web Scraper,Web Scraping
+heading,Bulk File Renamer Tool,Automation
+heading,Live Weather Forecast App,Utility
+heading,Build a Discord Bot (Free Hosting),Automation
+heading,Space Invaders Arcade Game,Game
+heading,Trending Books & Tech Guides,General
+heading,Build a Mobile App with Python,Development
+heading,AI Chatbot (Natural Language Processing),AI
+heading,Stock Market Prediction Model,AI
+heading,Automated Resume Parser,Automation
+heading,Data Visualization Dashboard,Data Science
+heading,Facial Recognition System,AI
+heading,YouTube Video Downloader,Utility
+heading,Expense Tracker App,Utility
+heading,E-commerce Price Tracker,Web Scraping
+heading,Sentiment Analysis Tool (Twitter/Reddit),AI
+heading,Virtual Assistant (Jarvis Clone),AI
+heading,Text Summarizer & Keyword Extractor,AI
+heading,Python-Based To-Do List App,Utility
+heading,Our Charity Projects,General
