@@ -1,4 +1,4 @@
-import streamlit as st # type: ignore
+import streamlit as st 
 
 def calculate_bmi(weight, height):
     """Calculate BMI given weight (kg) and height (m)."""
